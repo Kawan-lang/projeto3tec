@@ -1,0 +1,93 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+li{
+    float: left;
+}
+li a{
+    width: 100%;
+    display: block;
+    padding: 8px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+
+    font-size: xx-large;
+    position: relative;
+ left: 33vw;
+ 
+
+}
+ul{
+    list-style-type: none;
+    margin: 50px;
+    padding: 50px;
+    overflow: hidden;
+    background-color: rgb(0, 0, 0);
+    border-radius: 90px;
+
+
+}
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+}
+.banner img{
+    width: 99.1vw;
+    height: 700px;
+}
+h1{
+
+    color: rgb(0, 0, 0);
+}
+#main {
+  
+    display: flex;
+    justify-content: center;
+  }
+  
+  #main div {
+
+  }
+  .aluno{
+ width: 10vw;
+ height: 20vh;
+ margin-left: auto;
+ border-radius: 100%;
+ color: rgb(252, 252, 252);
+ background-color: rgb(0, 0, 0);
+
+
+ 
+   
+  }
+  h1{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    
+
+  }
+  .foto{
+    width: 20vw;
+    height: 40vh;
+    margin-left: 5vw;
+    color: rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0);
+    
+  }
+    hr{
+        height: 20px;
+        background-color: black;
+    }
+    hr{
+        height: 1px;
+    }
+    ol li{
+        display: flex;
+        justify-content: center;
+        position: relative;
+        left: 50vw;
+    }
+    
